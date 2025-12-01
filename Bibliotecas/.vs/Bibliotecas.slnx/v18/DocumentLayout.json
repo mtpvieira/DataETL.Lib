@@ -3,18 +3,6 @@
   "WorkspaceRootPath": "E:\\Projetos\\ASP NET\\DataETL.Lib\\Bibliotecas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{720887A4-1C38-86FE-E91A-F1D840B3A300}|DataETL\\DataETL.csproj|e:\\projetos\\asp net\\dataetl.lib\\bibliotecas\\dataetl\\business\\extractors\\excelextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{720887A4-1C38-86FE-E91A-F1D840B3A300}|DataETL\\DataETL.csproj|solutionrelative:dataetl\\business\\extractors\\excelextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF923E41-7711-4E9D-AE11-7AA7213FB0A2}|AIChatLib\\AIChatLib.csproj|e:\\projetos\\asp net\\dataetl.lib\\bibliotecas\\aichatlib\\aichatlibconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF923E41-7711-4E9D-AE11-7AA7213FB0A2}|AIChatLib\\AIChatLib.csproj|solutionrelative:aichatlib\\aichatlibconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF923E41-7711-4E9D-AE11-7AA7213FB0A2}|AIChatLib\\AIChatLib.csproj|e:\\projetos\\asp net\\dataetl.lib\\bibliotecas\\aichatlib\\interfaces\\ichatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF923E41-7711-4E9D-AE11-7AA7213FB0A2}|AIChatLib\\AIChatLib.csproj|solutionrelative:aichatlib\\interfaces\\ichatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{436C6111-B18D-4048-8BE4-0E7FC96226F3}|TesterDebug\\TesterDebug.csproj|e:\\projetos\\asp net\\dataetl.lib\\bibliotecas\\testerdebug\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{436C6111-B18D-4048-8BE4-0E7FC96226F3}|TesterDebug\\TesterDebug.csproj|solutionrelative:testerdebug\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,8 +11,8 @@
       "RelativeMoniker": "D:0:0:{FF923E41-7711-4E9D-AE11-7AA7213FB0A2}|AIChatLib\\AIChatLib.csproj|solutionrelative:aichatlib\\service\\ollamachatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF923E41-7711-4E9D-AE11-7AA7213FB0A2}|AIChatLib\\AIChatLib.csproj|e:\\projetos\\asp net\\dataetl.lib\\bibliotecas\\aichatlib\\models\\inputclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF923E41-7711-4E9D-AE11-7AA7213FB0A2}|AIChatLib\\AIChatLib.csproj|solutionrelative:aichatlib\\models\\inputclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{720887A4-1C38-86FE-E91A-F1D840B3A300}|DataETL\\DataETL.csproj|e:\\projetos\\asp net\\dataetl.lib\\bibliotecas\\dataetl\\business\\extractors\\excelextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{720887A4-1C38-86FE-E91A-F1D840B3A300}|DataETL\\DataETL.csproj|solutionrelative:dataetl\\business\\extractors\\excelextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,67 +34,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Projetos\\ASP NET\\DataETL.Lib\\Bibliotecas\\TesterDebug\\Program.cs",
               "RelativeDocumentMoniker": "TesterDebug\\Program.cs",
               "ToolTip": "E:\\Projetos\\ASP NET\\DataETL.Lib\\Bibliotecas\\TesterDebug\\Program.cs",
               "RelativeToolTip": "TesterDebug\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwB0AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-30T20:10:32.289Z"
+              "WhenOpened": "2025-11-30T20:10:32.289Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IChatService.cs",
-              "DocumentMoniker": "E:\\Projetos\\ASP NET\\DataETL.Lib\\Bibliotecas\\AIChatLib\\Interfaces\\IChatService.cs",
-              "RelativeDocumentMoniker": "AIChatLib\\Interfaces\\IChatService.cs",
-              "ToolTip": "E:\\Projetos\\ASP NET\\DataETL.Lib\\Bibliotecas\\AIChatLib\\Interfaces\\IChatService.cs",
-              "RelativeToolTip": "AIChatLib\\Interfaces\\IChatService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-30T20:09:47.584Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "InputClass.cs",
-              "DocumentMoniker": "E:\\Projetos\\ASP NET\\DataETL.Lib\\Bibliotecas\\AIChatLib\\Models\\InputClass.cs",
-              "RelativeDocumentMoniker": "AIChatLib\\Models\\InputClass.cs",
-              "ToolTip": "E:\\Projetos\\ASP NET\\DataETL.Lib\\Bibliotecas\\AIChatLib\\Models\\InputClass.cs",
-              "RelativeToolTip": "AIChatLib\\Models\\InputClass.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-30T19:37:11.814Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "OllamaChatService.cs",
               "DocumentMoniker": "E:\\Projetos\\ASP NET\\DataETL.Lib\\Bibliotecas\\AIChatLib\\Service\\OllamaChatService.cs",
               "RelativeDocumentMoniker": "AIChatLib\\Service\\OllamaChatService.cs",
               "ToolTip": "E:\\Projetos\\ASP NET\\DataETL.Lib\\Bibliotecas\\AIChatLib\\Service\\OllamaChatService.cs",
               "RelativeToolTip": "AIChatLib\\Service\\OllamaChatService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwBoAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-30T19:27:12.271Z"
+              "WhenOpened": "2025-11-30T19:27:12.271Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AIChatLibConfiguration.cs",
-              "DocumentMoniker": "E:\\Projetos\\ASP NET\\DataETL.Lib\\Bibliotecas\\AIChatLib\\AIChatLibConfiguration.cs",
-              "RelativeDocumentMoniker": "AIChatLib\\AIChatLibConfiguration.cs",
-              "ToolTip": "E:\\Projetos\\ASP NET\\DataETL.Lib\\Bibliotecas\\AIChatLib\\AIChatLibConfiguration.cs",
-              "RelativeToolTip": "AIChatLib\\AIChatLibConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-30T19:26:40.049Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ExcelExtractor.cs",
               "DocumentMoniker": "E:\\Projetos\\ASP NET\\DataETL.Lib\\Bibliotecas\\DataETL\\Business\\Extractors\\ExcelExtractor.cs",
               "RelativeDocumentMoniker": "DataETL\\Business\\Extractors\\ExcelExtractor.cs",

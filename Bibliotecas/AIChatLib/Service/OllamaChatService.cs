@@ -16,20 +16,21 @@ namespace AIChatLib.Service
             _kernel = kernel;
         }
 
-        public async Task<string> SendAsync(InputClass input)
+        public async Task<InputClass> SendAsync(InputClass modelData)
         {
             // Add user input
-            input.chatHistory.AddUserMessage(input.Message);
+            modelData.chatHistory.AddUserMessage(modelData.Message);
 
             // Get the response from the AI
             var result = await _chatCompletionService.GetChatMessageContentAsync(
-                input.chatHistory,
+                modelData.chatHistory,
                 kernel: _kernel);
 
             // Add the message from the agent to the chat history
-            input.chatHistory.AddMessage(result.Role, result.Content ?? string.Empty);
+            modelData.chatHistory.AddMessage(result.Role, result.Content ?? string.Empty);
+            modelData.LastAnswer = result.Content ?? string.Empty;
 
-            return result.Content ?? string.Empty;
+            return modelData;
         }
     }
 }

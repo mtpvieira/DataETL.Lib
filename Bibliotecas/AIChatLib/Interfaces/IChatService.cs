@@ -4,6 +4,6 @@ namespace AIChatLib.Interfaces
 {
     public interface IChatService
     {
-        Task<string> SendAsync(InputClass input);
+        Task<InputClass> SendAsync(InputClass input);
     }
 }
