@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="AIChatLib/AIChatLib.csproj" Id="ff923e41-7711-4e9d-ae11-7aa7213fb0a2" />
+  <Project Path="DataETL/DataETL.csproj" />
+  <Project Path="TesterDebug/TesterDebug.csproj" Id="436c6111-b18d-4048-8be4-0e7fc96226f3" />
+</Solution>
